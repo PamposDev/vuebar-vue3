@@ -1,18 +1,18 @@
 {
-  "name": "vuebar",
+  "name": "vuebar-vue3",
   "description": "Vue directive for custom scrollbar that uses native scroll behavior. Lightweight, performant and without dependencies.",
   "author": "Dominik Serafin <dominikdsgnr@gmail.com>",
   "license": "MIT",
-  "version": "0.0.20",
+  "version": "0.0.2",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git@github.com:DominikSerafin/vuebar.git"
+    "url": "git@github.com:PamposDev/vuebar-vue3.git"
   },
-  "homepage": "https://github.com/DominikSerafin/vuebar",
+  "homepage": "https://github.com/PamposDev/vuebar-vue3",
   "keywords": [
     "vue",
-    "vue2",
+    "vue3",
     "directive",
     "scroll",
     "scrollbar",
